@@ -1,5 +1,5 @@
 crcmod==1.7
-psutil==5.4.7
+psutil==5.6.6
 pyOpenSSL==17.2.0
 tensorflow==1.8.0
 
